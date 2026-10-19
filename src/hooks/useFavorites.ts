@@ -1,5 +1,3 @@
-import { useState } from 'react';
-
 // Избранные матчи (по id). Хранятся только в памяти, пока открыто приложение.
 import { useState } from 'react';
 
